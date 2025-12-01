@@ -176,19 +176,19 @@ As a project grows and more people get involved, it becomes harder to keep track
 **HW Part A**
 Answer the following questions:
 - Fill in the blank: "Git provides a ... of content changes"
-
+History
 - Which git command shows you the historical graphical representation of branching and merging events?
-
+The command is git log --graph
 **HW Part B**
 
 > Add your completion screenshots here (Introduction Sequence and Push & Pull — Git Remotes!).
 
 - Introduction Sequence — 4/4 complete:  
   _Attach image(s) here_
-
+![screenshot 1](QX1.png)
 - Push & Pull — Git Remotes! — 8/8 complete:  
   _Attach image(s) here_
-
+![screenshot 2](QX2.png)
 **HW Part C**
 
 - Submit the **URL of this Markdown file** to **Canvas** after you are done. This is the github URL to files in your fork repo on `main` branch.
